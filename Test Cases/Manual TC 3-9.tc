@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manual TC 3-9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>705ef838-9745-4b9f-8aa1-0b4ee12745e3</testCaseGuid>
+   <variable>
+      <defaultValue>'Hello world'</defaultValue>
+      <description></description>
+      <id>3044d937-3a67-488d-854c-3e0f599cb7c5</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
